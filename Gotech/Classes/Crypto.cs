@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjetoN9Aula.Classes
+namespace Gotech.Classes
 {
     public class Crypto
     {
